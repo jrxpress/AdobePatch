@@ -1,5 +1,5 @@
 # AdobePatch
-此项目内的破解补丁用于注册激活Adobe系列的所有产品，当然，同系列的Adobe其他软件也是可以正常注册激活，前提是要同系列。例如你从软件中选择Photoshop CC 2015的就不能激活Dreamweaver CS6。现在支持最新版本Adobe CC 2018系列破解。
+The crack patch in this project is used to register and activate all products in the Adobe series. Of course, other Adobe software in the same series can also be registered and activated normally, provided that they are of the same series. For example, if you select Photoshop CC 2015 from the software, you cannot activate Dreamweaver CS6. Now supports the latest version of Adobe CC 2018 series cracks.
 
 | Product                                | Windows                                                      | Mac OS                                                       |
 | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
